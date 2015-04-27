@@ -1,0 +1,6 @@
+*.swp
+*.swo
+vim/
+neobundle.vim/
+bundle/
+*.un~
